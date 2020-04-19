@@ -10,6 +10,7 @@ This team will disolve on 31st Dec 2020.
 |Chapter Chair | Mr. Vedant Bahel | 6th Jan 2020 | Present |
 |Vice Chair |  | 6th Jan 2020 | Present |
 |Secretary |    | 6th Jan 2020 | Present |
+|ExCom Member | Mr. Atharva Deolalikar | 6th Jan 2020 | Present |
 |ExCom Member | Ms. Hrutuja Kargirwar | 6th Jan 2020 | Present |  
 |ExCom Member | Mr. Paresh Chaudhari | 6th Jan 2020 | Present |
 |ExCom Member | Mr. Atharva Khedkar | 6th Jan 2020 | Present |
