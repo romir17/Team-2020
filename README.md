@@ -4,7 +4,7 @@ IEEE Computational Intelligence Student Branch Chapter (SBC62361B) was founded a
 This team will disolve on 31st Dec 2020. 
 
 | Position | Name | Start Date | End Date | 
-|----------|------|------------|-----------|<<<<<<< patch-1
+|----------|------|------------|-----------|
 |Chapter Advisor 1 | Prof. Sofia Pillai    | 1st Jan 2020  | 15th Feb 2020 |
 |Chapter Advisor 2 | Prof. A. Thomas       | 15th Feb 2020 | Present       |
 |Chapter Chair     | Mr. Vedant Bahel      | 6th Jan 2020  | Present       |
