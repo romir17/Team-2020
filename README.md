@@ -12,6 +12,7 @@ This team will disolve on 31st Dec 2020.
 |Secretary | Mr. Atharva Peshkar | 6th Jan 2020 | Present |
 |ExCom Member | Ms. Hrutuja Kargirwar | 6th Jan 2020 | Present |  
 |ExCom Member | Mr. Paresh Chaudhari | 6th Jan 2020 | Present |
+|ExCom Member | Mr.Atharva Khedkar | 6th Jan 2020 | Present |
 
 
 ![Group Photo](https://github.com/IEEE-CIS-GHRCE-62361B/Team-2020/blob/master/WhatsApp%20Image%202020-04-10%20at%208.56.55%20PM.jpeg)
