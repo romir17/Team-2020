@@ -15,6 +15,7 @@ This team will disolve on 31st Dec 2020.
 |ExCom Member      | Mr. Paresh Chaudhari  | 6th Jan 2020  | Present       |
 |ExCom Member      | Mr. Atharva Khedkar   | 6th Jan 2020  | Present       |
 |ExCom Member      | Mr. Flewin Dsouza     | 6th Jan 2020  | Present       |
+|ExCom Member | Mr. Atharva Deolalikar | 6th Jan 2020 | Present |
 |Volunteer | Mr. Ashish Kotecha | 6th Jan 2020 | Present |
 
 
