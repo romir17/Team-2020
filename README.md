@@ -4,7 +4,7 @@ IEEE Computational Intelligence Student Branch Chapter (SBC62361B) was founded a
 This team will disolve on 31st Dec 2020. 
 
 | Position | Name | Start Date | End Date | 
-|----------|------|------------|-----------|
+|----------|------|------------|-----------|<<<<<<< patch-1
 |Chapter Advisor 1 | Prof. Sofia Pillai    | 1st Jan 2020  | 15th Feb 2020 |
 |Chapter Advisor 2 | Prof. A. Thomas       | 15th Feb 2020 | Present       |
 |Chapter Chair     | Mr. Vedant Bahel      | 6th Jan 2020  | Present       |
@@ -17,8 +17,7 @@ This team will disolve on 31st Dec 2020.
 |ExCom Member      | Mr. Flewin Dsouza     | 6th Jan 2020  | Present       |
 |ExCom Member | Mr. Atharva Deolalikar | 6th Jan 2020 | Present |
 |Volunteer | Mr. Ashish Kotecha | 6th Jan 2020 | Present |
-
-
+|Volunteer| Mr. Aditya Bobde | 6th Jan 2020 | Present |  
 
 ![Group Photo](https://github.com/IEEE-CIS-GHRCE-62361B/Team-2020/blob/master/WhatsApp%20Image%202020-04-10%20at%208.56.55%20PM.jpeg)
 
