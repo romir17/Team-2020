@@ -1,6 +1,7 @@
 # Team-2020
 
 IEEE Computational Intelligence Student Branch Chapter (SBC62361B) was founded at GHRCE on 1st January 2020. After rigorous interviews and elections conducted by the founding committee, a team was formed. Following is the list.
+This team will disolve on 31st Dec 2020. 
 
 | Position | Name | Start Date | End Date | 
 |----------|------|------------|-----------|
