@@ -9,4 +9,5 @@ IEEE Computational Intelligence Student Branch Chapter (SBC62361B) was founded a
 |Chapter Chair | Mr. Vedant Bahel | 6th Jan 2020 | Present |
 |Vice Chair | Ms. Rishita Mishra | 6th Jan 2020 | Present |
 |Secretary | Mr. Atharva Peshkar | 6th Jan 2020 | Present |
-|Executive Committee Member | Ms. Hrutuja Kargirwar | 6th Jan 2020 | Present |  
+|ExCom Member | Ms. Hrutuja Kargirwar | 6th Jan 2020 | Present |  
+|ExCom Member | Mr. Paresh Chaudhari | 6th Jan 2020 | Present |
