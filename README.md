@@ -11,6 +11,7 @@ This team will disolve on 31st Dec 2020.
 |Vice Chair        |                       | 6th Jan 2020  | Present       |
 |Secretary         |                       | 6th Jan 2020  | Present       |
 |Treasurer         | Mr Shreyas Malewar    | 6th Jan 2020  | Present       |
+|Web Master        | Mr Siddhinath Taldhi  | 6th Jan 2020  | Present       |
 |ExCom Member      | Ms. Hrutuja Kargirwar | 6th Jan 2020  | Present       |  
 |ExCom Member      | Mr. Paresh Chaudhari  | 6th Jan 2020  | Present       |
 |ExCom Member      | Mr. Atharva Khedkar   | 6th Jan 2020  | Present       |
